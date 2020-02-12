@@ -1,0 +1,21 @@
+-------------------------------------------------------------
+*****              STARTING PROJECT DEBUG               *****
+-------------------------------------------------------------
+PITONwin::InitMouse()
+PITONwin::InitKeyboard()
+mouse->Acquire()
+keyboard->Acquire()
+------------------- 800x600x24 ----------------------
+starting mouse thread
+------------------- Interface INIT ------------------
+SUMMARY LOADED SURFACE MEMORY: 7696 Kb
+VIDEO MEMORY: Total=2682 Kb,  Free=439 Kb
+INTERFACE - Go To OPTIONS Form.
+INTERFACE - Exit from OPTIONS Form without saving changes.
+INTERFACE - Show Question Window...
+------------------- Interface DONE. ------------------
+------------------ DirectDraw DONE ------------------
+mouse->Unacquire()
+sending mouse quit message...
+got quit message: quitting mouse thread
+Releasing mouse pointer...
